@@ -1,0 +1,19 @@
+#!name = 爱思助手去广告
+#!desc = 移除开屏广告
+#!openUrl = 
+#!author = Baymax1997[https://github.com/Baymax1997/Loon]
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.2.3(762)
+#!homepage = https://github.com/Baymax1997/Loon/blob/main/README.md
+#!icon = https://raw.githubusercontent.com/Baymax1997/Loon/main/Color/i4.png
+#!date = 2024-11-17 20:28:31
+
+
+[Rewrite]
+# 开屏广告
+^https:\/\/list-app-m\.i4\.cn\/(adclickcb|getHotSearchList|getopfstadinfo)\.xhtml - reject
+
+[MitM]
+hostname = list-app-m.i4.cn
