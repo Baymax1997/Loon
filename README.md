@@ -1,6 +1,3 @@
-> [!!!]
-> 本仓库为自用的备份仓库，基本不会更新的。请支持原作者，点击下方图片移步至可莉仓库，谢谢！！！
-
 [![Banner1](Resource/IMG/Banner/Banner-1.png)](https://t.me/ibilibili)
 
 > [!CAUTION]
