@@ -640,5 +640,20 @@
   <tr>
     <td>04</td>
     <td><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/Baymax1997/Loon/main/Plugin/D/04.plugin">Follow每日签到</a></td>
+     </tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+    <th>类别</th>
+    <th>序号</th>
+    <th>名称</th>
+  </tr>
+  <tr>
+    <td rowspan="2"><strong>其他插件</strong></td>
+  <tr>
+    <td>01</td>
+    <td><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/Baymax1997/Loon/main/Plugin/E/01.plugin">爱思助手去广告</a></td>
+  </tr>
   </tr>
 </table>
